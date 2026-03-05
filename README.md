@@ -66,12 +66,12 @@ After applying, Terraform will output:
 ## Learning Objectives
 
 This project demonstrates:
-- ✅ Infrastructure as Code principles
-- ✅ AWS resource provisioning
-- ✅ Security group configuration
-- ✅ S3 static website hosting
-- ✅ Terraform state management
-- ✅ Variable usage for flexibility
+- Infrastructure as Code principles
+- AWS resource provisioning
+- Security group configuration
+- S3 static website hosting
+- Terraform state management
+- Variable usage for flexibility
 
 ## Cost Optimization
 
@@ -81,19 +81,10 @@ All resources use AWS Free Tier:
 
 Remember to destroy resources after testing to avoid charges.
 
-## Next Steps
-
-- [ ] Add CloudFront distribution
-- [ ] Add Route53 DNS configuration
-- [ ] Add RDS database
-- [ ] Implement remote state with S3
-- [ ] Create modules for reusability
-
 ## Author
 
 Sahan Samidhu Saluwadana
-- LinkedIn: [Your LinkedIn]
-- GitHub: [Your GitHub]
+- LinkedIn: www.linkedin.com/in/sahan-samidhu-72b369341
 - Email: shansamidhu@gmail.com
 ```
 
